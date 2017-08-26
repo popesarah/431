@@ -9,10 +9,12 @@ Version: 2017-08-26
         -   [Windows: Installing R](#windows-installing-r)
         -   [Windows: Installing R Studio](#windows-installing-r-studio)
         -   [Windows: Installing R Packages](#windows-installing-r-packages)
+        -   [Windows: Install Data and Code for 431](#windows-install-data-and-code-for-431)
     -   [Instructions for Apple / Macintosh Machines](#instructions-for-apple-macintosh-machines)
         -   [Mac: Installing R](#mac-installing-r)
         -   [Mac: Installing R Studio](#mac-installing-r-studio)
         -   [Mac: Installing R Packages](#mac-installing-r-packages)
+        -   [Mac: Install Data and Code for 431](#mac-install-data-and-code-for-431)
 
 R, R Studio and R packages
 ==========================
@@ -22,6 +24,7 @@ The steps here involve
 1.  Installing R
 2.  Installing R Studio
 3.  Installing a series of R packages so we can more successfully use R.
+4.  Install data and code for 431
 
 You'll need to install these programs on either a Windows PC, or Macintosh PC (or, if you are adventurous and self-supporting, a Linux box). They cannot be run in the way we need them on an iPad or Android tablet or on a Chromebook.
 
@@ -94,7 +97,15 @@ Note: If you want to install a single package, you can do so by finding the word
 
 2.  Finally, choose **File ... Quit R** from the top menu, and accept R Studio's request to save your workspace. This will eliminate the need to re-do these steps every time you work in R.
 
-3.  You should now be all set! Our discussion of R, R Studio, working with data, scripts and Markdown files continues elsewhere.
+### Windows: Install Data and Code for 431
+
+1.  Exit R Studio, and open a browser to <https://github.com/THOMASELOVE/431data>
+
+2.  Click on the green **Clone or download** button.
+
+3.  Select Download ZIP on the bottom right, and this will download a zip file of relevant data and code for the course. Put this in a directory you can find later.
+
+4.  You should now be all set! Our discussion of R, R Studio, working with data, scripts and Markdown files continues elsewhere.
 
 Instructions for Apple / Macintosh Machines
 -------------------------------------------
@@ -146,4 +157,12 @@ Note: If you want to install a single package, you can do so by finding the word
 
 2.  Finally, choose **File ... Quit R** from the top menu, and accept R Studio's request to save your workspace. This will eliminate the need to re-do these steps every time you work in R.
 
-3.  You should now be all set! Our discussion of R, R Studio, working with data, scripts and Markdown files continues elsewhere.
+### Mac: Install Data and Code for 431
+
+1.  Exit R Studio, and open a browser to <https://github.com/THOMASELOVE/431data>
+
+2.  Click on the green **Clone or download** button.
+
+3.  Select Download ZIP on the bottom right, and this will download a zip file of relevant data and code for the course. Put this in a directory you can find later.
+
+4.  You should now be all set! Our discussion of R, R Studio, working with data, scripts and Markdown files continues elsewhere.
