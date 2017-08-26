@@ -1,19 +1,20 @@
 # 431
-This is the front page for PQHS/CRSP/MPHP 431: Data Science for Biological, Medical and Health Research, Section 1.
+Welcome! This is the front page for PQHS/CRSP/MPHP 431: Data Science for Biological, Medical and Health Research, Section 1.
 The course is taught by Professor Thomas E. Love, Ph.D.
 
 To get help, email 431-help@case.edu
 
-Course Syllabus: https://thomaselove.github.io/431syllabus/index.html
-  - Course Description
+Course Syllabus: https://thomaselove.github.io/431syllabus/
+  - Course Description                       
   - Class Schedule
-  - Software
+  - Software                                 
   - Texts, including supplemental resources
   - Dr. Love's information
   - Teaching Assistants
   - Expectations, Assessment and Grades details
   - Quizzes
   - Assignments
+  - Portfolio Project
   - Some Writing / Presenting Tips
   - General Course Policies
 
