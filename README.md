@@ -1,5 +1,6 @@
 # 431
 Welcome! 
+
 This is the front page for PQHS/CRSP/MPHP 431: Data Science for Biological, Medical and Health Research, Section 1.
 
 The course is taught by Professor Thomas E. Love, Ph.D.
