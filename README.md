@@ -5,16 +5,12 @@ The course is taught by Professor Thomas E. Love, Ph.D.
 To get help, email 431-help@case.edu
 
 Course Syllabus: https://thomaselove.github.io/431syllabus/
-  - Course Description                       
-  - Class Schedule
-  - Software                                 
+  - Course Description and Class Schedule
+  - Software information, including setup instructions                                 
   - Texts, including supplemental resources
-  - Dr. Love's information
-  - Teaching Assistants
+  - Staff information: Dr. Love and the Teaching Assistants
   - Expectations, Assessment and Grades details
-  - Quizzes
-  - Assignments
-  - Portfolio Project
+      - 3 Quizzes, 6 Assignments, 1 Portfolio Project
   - Some Writing / Presenting Tips
   - General Course Policies
 
