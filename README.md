@@ -1,7 +1,6 @@
 # 431
-Welcome! 
-
-This is the front page for PQHS/CRSP/MPHP 431: Data Science for Biological, Medical and Health Research, Section 1.
+Welcome to the front page for PQHS/CRSP/MPHP 431: 
+Data Science for Biological, Medical and Health Research, Section 1.
 
 The course is taught by Professor Thomas E. Love, Ph.D.
 To get help, email 431-help@case.edu
@@ -20,6 +19,6 @@ Course Notes: https://thomaselove.github.io/431notes/
   - Part B: Making Comparisons
   - Part C: Building Regression Models
 
-Data downloads and the Love-boost.R script are available at https://github.com/THOMASELOVE/431/data
+Data and code downloads are at https://github.com/THOMASELOVE/431/data
 
-Software installation instructions for R, R studio and R Packages are at https://github.com/THOMASELOVE/431/blob/master/software-installation-431.md
+To install R, R Studio and R Packages, visit https://github.com/THOMASELOVE/431/blob/master/software-installation-431.md
