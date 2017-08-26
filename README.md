@@ -20,3 +20,5 @@ Course Notes: https://thomaselove.github.io/431notes/
   - Part A: Visualizing Data
   - Part B: Making Comparisons
   - Part C: Building Regression Models
+
+Data downloads and the Love-boost.R script are available at https://github.com/THOMASELOVE/431/data
