@@ -19,6 +19,7 @@ Course Notes: https://thomaselove.github.io/431notes/
   - Part B: Making Comparisons
   - Part C: Building Regression Models
 
-Data and code downloads are at https://github.com/THOMASELOVE/431/data
+Data and code downloads are at https://github.com/THOMASELOVE/431data
+  - Just click on the Clone or download button, and then select Download ZIP to obtain the latest materials.
 
 To install R, R Studio and R Packages, visit https://github.com/THOMASELOVE/431/blob/master/software-installation-431.md
