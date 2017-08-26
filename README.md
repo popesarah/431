@@ -8,8 +8,7 @@ To get help, email 431-help@case.edu
 
 Course Syllabus: https://thomaselove.github.io/431syllabus/
   - Course Description and Class Schedule
-  - Software information, including setup instructions for R and R Studio
-  - Texts, including supplemental resources
+  - Software and Text information, including supplemental resources
   - Staff information: Dr. Love and the Teaching Assistants
   - Expectations, Assessment and Grades details
       - 3 Quizzes, 6 Assignments, 1 Portfolio Project
@@ -22,3 +21,5 @@ Course Notes: https://thomaselove.github.io/431notes/
   - Part C: Building Regression Models
 
 Data downloads and the Love-boost.R script are available at https://github.com/THOMASELOVE/431/data
+
+Software installation instructions for R, R studio and R Packages are at https://github.com/THOMASELOVE/431/blob/master/software-installation-431.md
