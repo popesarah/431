@@ -22,3 +22,4 @@ To **install R, R Studio and R Packages**, visit https://github.com/THOMASELOVE/
 
 To get started on **Working with data in R, R Studio and R Markdown** or to be reminded of how to code things, we suggest you visit https://github.com/THOMASELOVE/431/blob/master/431_2017_working-with-data-in-R.md
 
+As they appear, the actual homework assignments will be found at https://github.com/THOMASELOVE/431homework
