@@ -7,7 +7,8 @@ To get help, email **431-help@case.edu**
 
 Course **Syllabus**: https://thomaselove.github.io/431syllabus/ where you'll find...
   - Course Description and Class Schedule
-  - Information and Links related to Software, Texts and other Materials, Staff (Dr. Love and the Teaching Assistants)
+  - Information on Professor Love, and the staff of Teaching Assistants
+  - Information and Links related to Software, Texts and other Materials
   - Expectations, Assessment and Grades (3 Quizzes, 6 Assignments, 1 Portfolio Project)
   - Some Writing / Presenting Tips and miscellaneous General Course Policies
 
