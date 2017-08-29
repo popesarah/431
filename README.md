@@ -22,7 +22,6 @@ To **install R, R Studio and R Packages**, visit https://github.com/THOMASELOVE/
 
 To get started on **Working with data in R, R Studio and R Markdown** or to be reminded of how to code things, we suggest you visit https://github.com/THOMASELOVE/431/blob/master/431_2017_working-with-data-in-R.md
 
-Your first task (which we'll discuss in class 1) is to visit https://goo.gl/QTSGYu and provide your preferred name and email. 
-  - You will need to be logged into **Google via CWRU** for this to work.
+Your first task (which we'll discuss in class 1) is to visit https://goo.gl/QTSGYu and provide your preferred name and email. Please do this today. You will need to be logged into **Google via CWRU** for this to work.
 
 Course homework assignments are found at https://github.com/THOMASELOVE/431homework
