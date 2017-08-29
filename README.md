@@ -25,4 +25,4 @@ To get started on **Working with data in R, R Studio and R Markdown** or to be r
 Your first task (which we'll discuss in class 1) is to visit https://goo.gl/QTSGYu and provide your preferred name and email. 
   - You will need to be logged into **Google via CWRU** for this to work.
 
-As they appear, the actual homework assignments are found at https://github.com/THOMASELOVE/431homework
+Course homework assignments are found at https://github.com/THOMASELOVE/431homework
