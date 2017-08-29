@@ -1,7 +1,7 @@
 Installing Software for 431
 ================
 Thomas E. Love
-Version: 2017-08-26
+Version: 2017-08-28
 
 -   [R, R Studio and R packages](#r-r-studio-and-r-packages)
 -   [Step-by-Step Installation of R, R Studio and R Packages](#step-by-step-installation-of-r-r-studio-and-r-packages)
@@ -84,7 +84,7 @@ Instructions for Windows Machines
 
     pkgs <- c("aplpack", "arm", "babynames", "boot", "car", "devtools", "Epi", 
               "faraway", "forcats", "foreign", "gapminder", "GGally", "ggjoy", 
-              "gridExtra", "Hmisc", "knitr", "lme4", "markdown", "MASS", 
+              "gridExtra", "Hmisc", "knitr", "lme4", "magrittr", "markdown", "MASS", 
               "mice", "mosaic", "multcomp", "NHANES", "pander", "psych", 
               "pwr", "qcc", "rmarkdown", "rms", "sandwich", "survival", 
               "tableone", "tidyverse", "vcd", "viridis")
@@ -144,7 +144,7 @@ Instructions for Apple / Macintosh Machines
 
     pkgs <- c("aplpack", "arm", "babynames", "boot", "car", "devtools", "Epi", 
               "faraway", "forcats", "foreign", "gapminder", "GGally", "ggjoy", 
-              "gridExtra", "Hmisc", "knitr", "lme4", "markdown", "MASS", 
+              "gridExtra", "Hmisc", "knitr", "lme4", "magrittr", "markdown", "MASS", 
               "mice", "mosaic", "multcomp", "NHANES", "pander", "psych", 
               "pwr", "qcc", "rmarkdown", "rms", "sandwich", "survival", 
               "tableone", "tidyverse", "vcd", "viridis")
