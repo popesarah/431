@@ -28,3 +28,5 @@ To **get started with R, R Studio and R Markdown** (especially after Class 2 and
 Course **homework assignments** are found at https://github.com/THOMASELOVE/431homework
 
 The **presentation slides** from each class will be posted at https://github.com/THOMASELOVE/431slides
+
+**Teaching Assistant Office Hours** are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places if you need help. The TAs are available 11:30 - 12:30, 2:30 - 4:30 and 5:45 - 6:45 on Tuesdays and Thursdays, and also 4:30 - 5:30 on Fridays. This schedule is also found in the [Syllabus](https://thomaselove.github.io/431syllabus/). Email **431-help at case dot edu** for help outside of office hours.
