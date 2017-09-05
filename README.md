@@ -31,5 +31,5 @@ The **presentation slides** for each class will be posted at https://github.com/
 
 **Teaching Assistant Office Hours** are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places if you need help. The TAs are available 11:30 - 12:30, 2:30 - 4:30 and 5:45 - 6:45 on Tuesdays and Thursdays, and also 4:30 - 5:30 on Fridays. This schedule is also found in the [Syllabus](https://thomaselove.github.io/431syllabus/). Email **431-help at case dot edu** for help outside of office hours.
 
-If you are trying to get help from **431-help at case dot edu**, that's great, but if you are trying to get help about an R problem send us (a) **your complete R Markdown file**, and (b) **a screen shot or cut-and-paste listing of the error message you're seeing**, please.
+If you are trying to get help from **431-help at case dot edu**, that's great, but if you are trying to get help about an R problem send us (a) **your complete R Markdown file**, and (b) **a screen shot or copy-and-paste listing of the error message you're seeing**, please.
 
