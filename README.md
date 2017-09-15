@@ -25,7 +25,7 @@ To **install R, R Studio and R Packages**, visit https://github.com/THOMASELOVE/
 
 To **get started with R, R Studio and R Markdown** (especially after Class 2 and before Assignment 1) take a look at https://github.com/THOMASELOVE/431/blob/master/431-getting-started-with-R.pdf
 
-Course **homework assignments** are found at https://github.com/THOMASELOVE/431homework
+Course **homework assignments** and **answer sketches** are found at https://github.com/THOMASELOVE/431homework
 
 The **presentation slides** for each class will be posted at https://github.com/THOMASELOVE/431slides. Beginning with Class 3, I've built a README file (linked at the [presentation slides page](https://github.com/THOMASELOVE/431slides)) with all of the announcements and administrative details related to that session's class. Please **be certain** you look at this material, especially if you're missing class.
 
